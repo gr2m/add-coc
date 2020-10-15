@@ -1,0 +1,14 @@
+{
+  "name": "add-coc",
+  "version": "1.0.0",
+  "description": "This is a script for [mutate-github-repositories-cli](https://github.com/gr2m/mutate-github-repositories-cli/).",
+  "main": "script.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Gregor Martynus (https://twitter.com/gr2m)",
+  "license": "ISC",
+  "devDependencies": {
+    "@octokit/core": "^3.1.2",
+    "@octokit/types": "^5.5.0"
+  }
+}
