@@ -10,5 +10,6 @@
   "devDependencies": {
     "@octokit/core": "^3.1.2",
     "@octokit/types": "^5.5.0"
-  }
+  },
+  "repository": "github:gr2m/add-coc"
 }
